@@ -7,8 +7,6 @@
 #' @seealso \code{\link{eventlog}}, \code{\link{activity_id}},
 #' \code{\link{lifecycle_id}}, \code{\link{activity_instance_id}}
 #'
-#'
-#'
 #' @export case_id
 #'
 case_id <- function(eventlog){
